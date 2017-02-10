@@ -21,6 +21,9 @@ public class Codes {
 	public static final int CODE_INTERNAL_SERVER_ERROR = 500;
 
 	public static final String HEADER_CONTENT_LENGTH = "Content-Length";
+	public static final String HEADER_CONTENT_RANGE = "Content-Range";
+	public static final String HEADER_ACCEPT_RANGES = "Accept-Range";
+	public static final String HEADER_ACCEPT_RANGES_BYTES = "bytes";
 	public static final String HEADER_HOST = "Host";
 	public static final String HEADER_SERVER = "Server";
 	public static final String HEADER_CONTENT_TYPE = "Content-Type";
